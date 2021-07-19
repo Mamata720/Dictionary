@@ -1,0 +1,10 @@
+a={
+    'ball':'red',
+    'bat':4,
+    'wickets':8,
+    'ball':'green',
+    'bat':3
+    } 
+b={}
+b.update(a)
+print(b)
